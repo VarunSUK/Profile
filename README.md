@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Varun Sukhavaasi</h1>
+<h1 align="center">Hi 👋, I'm Varun Sukhavasi</h1>
 <h3 align="center">An aspiring Data Scientist!</h3>
 
 - 🔭 I’m currently working on **Political Bias Predictor**
